@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-permalink: /:title:output_ext
+
 title: 日本XPユーザーグループ 公式サイト
 email: xpjug@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -31,7 +31,7 @@ twitter_username: xpjug
 github_username: xpjug
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
