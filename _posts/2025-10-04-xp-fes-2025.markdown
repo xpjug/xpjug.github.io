@@ -32,6 +32,6 @@ XP祭り2025のZoomとConfEngine利用料は一般社団法人スクラムギャ
 # セッション&タイムスケジュール
 セッションは下記Confengineに掲載しています。
 
-https://confengine.com/conferences/scrummatsuri
+[https://confengine.com/conferences/scrummatsuri](https://confengine.com/conferences/scrummatsuri)
 
 その他の情報は、X（[@xpjug](https://x.com/xpjug)）やFacebook（[XPJUG](https://www.facebook.com/Xpjug/)）をチェックしてください。
