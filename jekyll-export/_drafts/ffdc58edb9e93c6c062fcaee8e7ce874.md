@@ -1,0 +1,44 @@
+---
+id: 3608
+title: 'XP祭り2016：プロジェクトマネージャの育て方(稲山 文孝さん)'
+date: '2016-09-26T14:31:34+00:00'
+author: semi
+layout: revision
+guid: 'http://xpjug.com/3307-revision-v1/'
+permalink: /3307-revision-v1/
+---
+
+![xp2016-sessioin-c6-1](http://xpjug.com/wp-content/uploads/2016/08/xp2016-sessioin-c6-1.png)
+
+### セッション情報
+
+- セッションID：C-6-1
+- 時間：【午後3】15:00～15:25
+- 会場：【C会場】55N号館1F第一
+- タイプ：講演
+
+### セッション内容
+
+プロジェクトマネージャを育てるのは誰か。  
+マネージャ？本人？それとも仕事がプロジェクトマネージャ候補を育てるのでしょうか。
+
+プロジェクトマネージャを育てる 当事者から、育成に対する心構え、そして、ついやってしまう悪手を断ち、プロジェクトマネージャを育てる実践的な手法のエッセンスをお話しします。
+
+### スピーカー
+
+#### 稲山 文孝(Fumitaka Inayama)さん
+
+- 著書「アプリ開発チームのためのプロジェクトマネジメント」
+- 東葛飾<span lang="EN-US">PM</span>＆<span lang="EN-US">A</span>研究所
+- 「カワイイ後輩の育て方」（ノベル版）
+- 「カワイイ後輩の育て方<span lang="EN-US">the Comic</span>」（コミック）
+- 「ガルパン仕事術」
+
+- blog ：<http://inayama.hatenadiary.jp/>
+- twitter：[@inayamafumitaka](https://twitter.com/inayamafumitaka)
+
+### 公開資料
+
+<iframe allowfullscreen="" frameborder="0" height="485" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/key/w2Ehh34StCt7b3" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" width="595"> </iframe>
+
+<div style="margin-bottom:5px">  **[Xp祭り2016 c6公開用](//www.slideshare.net/FumitakaInayama/xp2016-c6-66365992 "Xp祭り2016 c6公開用")**  from **[Fumitaka Inayama](//www.slideshare.net/FumitakaInayama)** </div>

@@ -1,0 +1,117 @@
+---
+id: 4803
+title: XP祭り2020：協賛・寄贈本
+date: '2020-09-19T16:16:41+00:00'
+author: hosozawa
+layout: post
+guid: 'http://xpjug.com/?p=4803'
+permalink: /xp2020-sponsored-books/
+categories:
+    - XP祭り2019
+---
+
+## 協賛
+
+以下のメディア各社・コミュニティさまより協賛いただいております（敬称略、順不同）。
+
+### SBクリエイティブ
+
+- [新・明解Pythonで学ぶアルゴリズムとデータ構造](https://www.sbcr.jp/product/4815603199/)
+- [はじめてのディープラーニング](https://www.sbcr.jp/product/4797396812/)
+- [はじめてのディープラーニング２](https://www.sbcr.jp/product/4815605582/)
+- [新・明解Python入門](https://www.sbcr.jp/product/4815601522/)
+
+### 日経BP社
+
+- [More Effeciive Agile](https://www.nikkeibp.co.jp/atclpubmkt/book/20/P86580/)
+
+### 技術評論社
+
+- [Web+DB Press Vol.118](https://gihyo.jp/magazine/wdpress/archive/2020/vol118)
+- [オブジェクト指向 UIデザイン](https://gihyo.jp/book/2020/978-4-297-11351-3)
+- [\[増補改訂第３版\] Swift 実践入門](https://gihyo.jp/book/2020/978-4-297-11213-4)
+- [\[新版 zsh&amp;bash対応\] MacOS ×コマンド入門](https://gihyo.jp/book/2020/978-4-297-11213-4)
+- [Python実践入門](https://gihyo.jp/book/2020/978-4-297-11111-3)
+- [ソフトウェアテスト技法練習帳 ～知識を経験に変える40問～](https://gihyo.jp/book/2020/978-4-297-11061-1)
+
+### オライリー・ジャパン
+
+- [人工知能のアーキテクトたち ―AIを築き上げた人々が語るその真実](https://www.oreilly.co.jp/books/9784873119120/)
+- [みんなでアジャイル ―変化に対応できる顧客中心組織のつくりかた](https://www.oreilly.co.jp/books/9784873119090/)
+- [動かして学ぶ量子コンピュータプログラミング ―シミュレータとサンプルコードで理解する基本アルゴリズム](https://www.oreilly.co.jp/books/9784873119199/)
+- [Effective Python 第2版 ―Pythonプログラムを改良する90項目](https://www.oreilly.co.jp/books/9784873119175/)
+
+### マイナビ出版
+
+- [Webサイト高速化のための 静的サイトジェネレーター活用入門](https://book.mynavi.jp/ec/products/detail/id=115483)
+- [つくりながら学ぶ! Pythonによる因果分析](https://book.mynavi.jp/ec/products/detail/id=115805)
+- [リバースエンジニアリングツールGhidra実践ガイド](https://book.mynavi.jp/ec/products/detail/id=116258)
+- [現場のプロが伝える前処理技術](https://book.mynavi.jp/ec/products/detail/id=116696)
+- [プログラマーのためのVisual Studio Codeの教科書](https://book.mynavi.jp/ec/products/detail/id=115232)
+- [現場のプロから学ぶ SEO技術バイブル](https://book.mynavi.jp/ec/products/detail/id=91949)
+- [ビッグデータ分析・活用のためのSQLレシピ](https://book.mynavi.jp/ec/products/detail/id=65863)
+- [Scaling Teams 開発チーム 組織と人の成長戦略](https://book.mynavi.jp/ec/products/detail/id=115439)
+- [誰でもつくれる！UIデザイン入門](https://book.mynavi.jp/ec/products/detail/id=116012)
+- [Pythonハッカーガイドブック](https://book.mynavi.jp/ec/products/detail/id=115482)
+
+### オーム社
+
+- [リファクタリング 既存のコードを安全に改善する](https://www.ohmsha.co.jp/book/9784274224546/)
+- [アジャイルコーチング](https://www.ohmsha.co.jp/book/9784274219375/)
+- [実践 反復型ソフトウェア開発](https://www.ohmsha.co.jp/book/9784274068980/)
+- [テスト駆動開発](https://www.ohmsha.co.jp/book/9784274217883/)
+- [アジャイルサムライ](https://www.ohmsha.co.jp/book/9784274068560/)
+- [達人プログラマー](https://www.ohmsha.co.jp/book/9784274219337/)
+- [アジャイルレトロスペクティブズ](https://www.ohmsha.co.jp/book/9784274219337/)
+- [エクストリームプログラミング](https://www.ohmsha.co.jp/book/9784274217623/)
+- [リーン開発の現場](https://www.ohmsha.co.jp/book/9784274069321/)
+- [情熱プログラマー](https://www.ohmsha.co.jp/book/9784274067938/)
+- [アジャイル・ユーザビリティ](https://www.ohmsha.co.jp/book/9784274211607/)
+- [Gitによるバージョン管理](https://www.ohmsha.co.jp/book/9784274068645/)
+- [プログラミングElixir](https://www.ohmsha.co.jp/book/9784274219153/)
+- [ゴール＆ストラテジ入門](https://www.ohmsha.co.jp/book/9784274505843/)
+
+### 翔泳社
+
+- [Python2年生 データ分析のしくみ](https://www.shoeisha.co.jp/book/detail/9784798164960)
+- [SCRUMMASTER THE BOOK](https://www.shoeisha.co.jp/book/detail/9784798164960)
+- [SCRUM BOOT CAMP THE BOOK【増補改訂版】](https://www.shoeisha.co.jp/book/detail/9784798164960)
+
+### Regional Scrum Gathering Tokyo
+
+- [SCRUM BOOT CAMP THE BOOK【増補改訂版】](https://www.shoeisha.co.jp/book/detail/9784798163680)
+- [リファクタリング(第2版): 既存のコードを安全に改善する (OBJECT TECHNOLOGY SERIES)](https://www.ohmsha.co.jp/book/9784274224546/)
+- [エッセンシャル スクラム: アジャイル開発に関わるすべての人のための完全攻略ガイド (Object Oriented Selection)](https://www.shoeisha.co.jp/book/detail/9784798130507)
+- [Clean Code アジャイルソフトウェア達人の技](https://www.kadokawa.co.jp/product/301710000205/)
+- [組織パターン (Object Oriented SELECTION)](https://www.shoeisha.co.jp/book/detail/9784798128443)
+- [モダン・ソフトウェアエンジニアリング](https://www.shoeisha.co.jp/book/detail/9784798165226)
+- [スクラム現場ガイド -スクラムを始めてみたけどうまくいかない時に読む本-](https://book.mynavi.jp/ec/products/detail/id=50668)
+- [達人プログラマー 職人から名匠への道](https://www.ohmsha.co.jp/book/9784274219337/)
+- [アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~](https://book.mynavi.jp/ec/products/detail/id=22141)
+- [The DevOps ハンドブック 理論・原則・実践のすべて](https://shop.nikkeibp.co.jp/front/commodity/0000/P85480/)
+- [ユーザーストーリーマッピング](https://www.oreilly.co.jp/books/9784873117324/)
+- [レガシーコードからの脱却 ―ソフトウェアの寿命を延ばし価値を高める9つのプラクティス](https://www.oreilly.co.jp/books/9784873118864/)
+- [テスト駆動開発](https://shop.ohmsha.co.jp/shopdetail/000000004967/)
+- [LeanとDevOpsの科学\[Accelerate\] テクノロジーの戦略的活用が組織変革を加速する (impress top gear)](https://book.impress.co.jp/books/1118101029)
+- [アジャイルコーチング](https://shop.ohmsha.co.jp/shopdetail/000000004857/)
+- [正しいものを正しくつくる プロダクトをつくるとはどういうことなのか、あるいはアジャイルのその先について](http://www.bnn.co.jp/books/9859/)
+- [アジャイルサムライ−達人開発者への道](https://shop.ohmsha.co.jp/shopdetail/000000001901/)
+- [テストから見えてくる グーグルのソフトウェア開発](https://shop.nikkeibp.co.jp/front/commodity/0000/P85120/)
+- [エンジニアのためのマネジメントキャリアパス ―テックリードからCTOまでマネジメントスキル向上ガイド](https://www.oreilly.co.jp/books/9784873118482/)
+- [スクラム実践入門 ── 成果を生み出すアジャイルな開発プロセス (WEB+DB PRESS plus)](https://gihyo.jp/book/2015/978-4-7741-7236-1)
+- [Fearless Change アジャイルに効く アイデアを組織に広めるための48のパターン](https://www.maruzen-publishing.co.jp/item/?book_no=294768)
+- [チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで](https://www.shoeisha.co.jp/book/detail/9784798163635)
+- [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](https://www.oreilly.co.jp/books/9784873115658/)
+- [リーン開発の現場 カンバンによる大規模プロジェクトの運営](https://www.ohmsha.co.jp/book/9784274069321/)
+- [アジャイルレトロスペクティブズ 強いチームを育てる「ふりかえり」の手引き](https://www.ohmsha.co.jp/book/9784274066986/)
+- [カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで](https://www.shoeisha.co.jp/book/detail/9784798153346)
+- [エクストリームプログラミング](https://www.ohmsha.co.jp/book/9784274217623/)
+- [大規模スクラム Large-Scale Scrum(LeSS) アジャイルとスクラムを大規模に実装する方法](https://www.maruzen-publishing.co.jp/item/?book_no=295180)
+- [アジャイル開発の本質とスケールアップ 変化に強い大規模開発を成功させる14のベストプラクティス (IT Architects’ Archive)](https://www.shoeisha.co.jp/book/detail/9784798120409)
+- [初めての自動テスト ―Webシステムのための自動テスト基礎](https://www.oreilly.co.jp/books/9784873118161/)
+- [知識ゼロから学ぶソフトウェアテスト 【改訂版】](https://www.shoeisha.co.jp/book/detail/9784798130606)
+- [はじめて学ぶソフトウェアのテスト技法](https://www.nikkeibp.co.jp/atclpubmkt/book/05/P82510/)
+- [情熱プログラマー ソフトウェア開発者の幸せな生き方](https://shop.ohmsha.co.jp/shopdetail/000000001848/)
+- [アジャイルプラクティス 達人プログラマに学ぶ現場開発者の習慣](https://shop.ohmsha.co.jp/shopdetail/000000001769/)
+- [1兆ドルコーチ シリコンバレーのレジェンド ビル・キャンベルの成功の教え](https://www.diamond.co.jp/book/9784478107249.html)
+- [小さなチーム、大きな仕事――働き方の新スタンダード (ハヤカワ・ノンフィクション文庫)](https://www.hayakawa-online.co.jp/shopdetail/000000013397/)

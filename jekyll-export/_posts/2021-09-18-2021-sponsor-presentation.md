@@ -1,0 +1,117 @@
+---
+id: 4832
+title: XP祭り2021：協賛・寄贈本
+date: '2021-09-18T17:54:56+00:00'
+author: yenjoji
+layout: post
+guid: 'http://xpjug.com/?p=4832'
+permalink: /2021-sponsor-presentation/
+categories:
+    - XP祭り2021
+---
+
+## 協賛
+
+以下のメディア各社・コミュニティさまより協賛いただいております（敬称略、順不同）。
+
+### 日経BP出版局
+
+- [Adaptive Code ～ C#実践開発手法 第2版](https://www.nikkeibp.co.jp/atclpubmkt/book/18/P53540/)
+- [今すぐ実践！ カンバンによるアジャイルプロジェクトマネジメント](https://www.nikkeibp.co.jp/atclpubmkt/book/16/P98710/)
+- [More Effective Agile ～ “ソフトウェアリーダー”になるための28の道標](https://www.nikkeibp.co.jp/atclpubmkt/book/20/P86580/)
+
+### 技術評論社
+
+- [WEB+DB PRESS Vol.124](https://gihyo.jp/magazine/wdpress/archive/2021/vol124)
+- [WEB+DB PRESS総集編［Vol.1～120］](https://gihyo.jp/book/2021/978-4-297-12215-7)
+- [Linux＋コマンド入門](https://gihyo.jp/book/2021/978-4-297-12024-5)
+- [良いFAQの書き方](https://gihyo.jp/book/2021/978-4-297-12257-7)
+- [［増補改訂］良いコードを書く技術](https://gihyo.jp/book/2021/978-4-297-12048-1)
+
+### オライリー・ジャパン
+
+- [スクラム実践者が知るべき97のこと](https://www.oreilly.co.jp/books/9784873119397/)
+- [ユニコーン企業のひみつ](https://www.oreilly.co.jp/books/9784873119465/)
+- [UXデザインの法則](https://www.oreilly.co.jp/books/9784873119496/)
+
+### マイナビ出版
+
+- [Scaling Teams 開発チーム 組織と人の成長戦略](https://book.mynavi.jp/ec/products/detail/id=115439)
+- [Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ](https://book.mynavi.jp/ec/products/detail/id=123641)
+- [PyTorch実践入門](https://book.mynavi.jp/ec/products/detail/id=120263)
+- [プログラミングコンテストチャレンジブック \[第2版\]](https://book.mynavi.jp/ec/products/detail/id=22672)
+- [つくりながら学ぶ! Pythonによる因果分析](https://book.mynavi.jp/ec/products/detail/id=115805)
+- [詳解セキュリティコンテスト](https://book.mynavi.jp/ec/products/detail/id=122750)
+- [ブロックチェーン 理論と実践](https://book.mynavi.jp/ec/products/detail/id=121221)
+
+### オーム社
+
+- [達人プログラマー](https://www.ohmsha.co.jp/book/9784274226298/)
+- [プログラミングElixir](https://www.ohmsha.co.jp/book/9784274226373/)
+- [リファクタリング（第2版）](https://www.ohmsha.co.jp/book/9784274224546/)
+- [テスト駆動開発](https://www.ohmsha.co.jp/book/9784274217883/)
+- [アジャイルレトロスペクティブズ](https://www.ohmsha.co.jp/book/9784274066986/)
+- [エクストリームプログラミング](https://www.ohmsha.co.jp/book/9784274217623/)
+- [リーン開発の現場](https://www.ohmsha.co.jp/book/9784274069321/)
+- [アジャイルコーチング](https://www.ohmsha.co.jp/book/9784274219375/)
+- [アジャイルサムライ――達人開発者への道](https://www.ohmsha.co.jp/book/9784274068560/)
+- [BERTによる自然言語処理入門](https://www.ohmsha.co.jp/book/9784274227264/)
+
+### 翔泳社
+
+- [SCRUMMASTER THE BOOK 優れたスクラムマスターになるための極意――メタスキル、学習、心理、リーダーシップ](https://www.shoeisha.co.jp/book/detail/9784798164960)
+- [SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発](https://www.shoeisha.co.jp/book/detail/9784798164960)
+- [プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで](https://www.shoeisha.co.jp/book/detail/9784798166391)
+
+### Regional Scrum Gathering Tokyo
+
+- [プロダクトマネジメント](https://www.oreilly.co.jp/books/9784873119250/)
+- [達人プログラマー](https://www.ohmsha.co.jp/book/9784274219337/)
+- [Design It!](https://www.oreilly.co.jp/books/9784873118956/)
+- [More Effective Agile ～ “ソフトウェアリーダー”になるための28の道標](https://www.nikkeibp.co.jp/atclpubmkt/book/20/P86580/)
+- [みんなでアジャイル](https://www.oreilly.co.jp/books/9784873119090/)
+- [SRE サイトリライアビリティエンジニアリング](https://www.oreilly.co.jp/books/9784873117911/)
+- [情熱プログラマー ソフトウェア開発者の幸せな生き方](https://shop.ohmsha.co.jp/shopdetail/000000001848/)
+- [ハッカーと画家 コンピュータ時代の創造者たち](https://shop.ohmsha.co.jp/shopdetail/000000001697/)
+- [人月の神話 新装版](https://www.maruzen-publishing.co.jp/item/b294733.html)
+- [デッドライン](https://www.nikkeibp.co.jp/atclpubmkt/book/99/140252/)
+- [ゆとりの法則](https://www.nikkeibp.co.jp/atclpubmkt/book/01/P81110/)
+- [Running Lean](https://www.oreilly.co.jp/books/9784873115917/)
+- [アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~](https://book.mynavi.jp/ec/products/detail/id=22141)
+- [エクストリームプログラミング](https://www.ohmsha.co.jp/book/9784274217623/)
+- [トヨタ生産方式](https://www.diamond.co.jp/book/9784478460016.html)
+- [強いチームはオフィスを捨てる](https://www.amazon.co.jp/dp/4152094338/)
+- [Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
+- [小さなチーム、大きな仕事──働き方の新スタンダード](https://www.hayakawa-online.co.jp/shopdetail/000000013397/author_HAgyo_HU_3463/page1/order/)
+- [ジョイ・インク 役職も部署もない全員主役のマネジメント](https://www.shoeisha.co.jp/book/detail/9784798148786)
+- [分散システムデザインパターン](https://www.oreilly.co.jp/books/9784873118758/)
+- [Infrastructure as Code](https://www.oreilly.co.jp/books/9784873117966/)
+- [Effective DevOps](https://www.oreilly.co.jp/books/9784873118352/)
+- [LeanとDevOpsの科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する](https://book.impress.co.jp/books/1118101029)
+- [継続的デリバリー](https://asciidwango.jp/post/163632160215/%E7%B6%99%E7%B6%9A%E7%9A%84%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC)
+- [The DevOps 勝利をつかめ！ 技術的負債を一掃せよ](https://www.nikkeibp.co.jp/atclpubmkt/book/20/P95960/)
+- [The DevOps ハンドブック 理論・原則・実践のすべて](https://www.nikkeibp.co.jp/atclpubmkt/book/17/P85480/)
+- [教育心理学概論〔新訂〕](https://ua-book.shop-pro.jp/?pid=159286032)
+- [岩田さん](https://www.1101.com/books/iwatasan/)
+- [1兆ドルコーチ](https://www.diamond.co.jp/book/9784478107249.html)
+- [ＥＭＰＯＷＥＲＥＤ](https://pub.jmam.co.jp/book/b582279.html)
+- [アジャイル開発とスクラム 第2版 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント](https://www.shoeisha.co.jp/book/detail/9784798171524)
+- [Code Complete 第2版 上 － 完全なプログラミングを目指して](https://www.nikkeibp.co.jp/atclpubmkt/book/05/589000/)
+- [イシューからはじめよ](http://www.eijipress.co.jp/book/book.php?epcode=2085)
+- [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)
+- [スクラム実践者が知るべき97のこと](https://www.oreilly.co.jp/books/9784873119397/)
+- [アジャイルなチームをつくる ふりかえりガイドブック 始め方・ふりかえりの型・手法・マインドセット](https://www.shoeisha.co.jp/book/detail/9784798168791)
+- [SCRUMMASTER THE BOOK 優れたスクラムマスターになるための極意――メタスキル、学習、心理、リーダーシップ](https://www.shoeisha.co.jp/book/detail/9784798166858)
+- [SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発](https://www.shoeisha.co.jp/book/detail/9784798163680)
+- [スクラム 仕事が４倍速くなる“世界標準”のチーム戦術](https://www.hayakawa-online.co.jp/shopdetail/000000012733/)
+- [スクラム現場ガイド](https://book.mynavi.jp/ec/products/detail/id=50668)
+- [エッセンシャルスクラム](https://www.shoeisha.co.jp/book/detail/9784798130507)
+- [組織パターン チームの成長によりアジャイルソフトウェア開発の変革を促す](https://www.shoeisha.co.jp/book/detail/9784798128443)
+- [Fearless Change](https://www.maruzen-publishing.co.jp/item/?book_no=294768)
+- [ユーザーストーリーマッピング](https://www.oreilly.co.jp/books/9784873117324/)
+- [レガシーコードからの脱却](https://www.oreilly.co.jp/books/9784873118864/)
+- [モノリスからマイクロサービスへ](https://www.oreilly.co.jp/books/9784873119311/)
+- [ユニコーン企業のひみつ](https://www.oreilly.co.jp/books/9784873119465/)
+- [アジャイルサムライ――達人開発者への道](https://www.ohmsha.co.jp/book/9784274068560/)
+- [リファクタリング（第2版）](https://www.ohmsha.co.jp/book/9784274224546/)
+- [Clean Agile](https://asciidwango.jp/post/631315320701960192/clean-agile)

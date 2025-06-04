@@ -1,0 +1,19 @@
+---
+id: 630
+title: 会場マップ
+date: '2011-09-01T16:27:37+00:00'
+author: semi
+layout: revision
+guid: 'http://xpjug.com/609-revision-8/'
+permalink: /609-revision-8/
+---
+
+##### 早稲田大学 理工学部キャンパス
+
+[![](http://xpjug.com/wp-content/uploads/2011/09/campus_map_okubo.jpg "campus_map_okubo")](http://xpjug.com/wp-content/uploads/2011/09/campus_map_okubo.jpg)
+
+---
+
+##### XP祭り会場 – 55号館
+
+[![](http://xpjug.com/wp-content/uploads/2011/09/becbad68373ec5753816576494764077-300x225.jpg "XP祭り2011_Map_55N-55S")](http://xpjug.com/wp-content/uploads/2011/09/becbad68373ec5753816576494764077.jpg)

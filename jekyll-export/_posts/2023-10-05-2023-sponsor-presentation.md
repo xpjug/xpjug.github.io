@@ -1,0 +1,126 @@
+---
+id: 4923
+title: XP祭り2023：協賛・寄贈本
+date: '2023-10-05T10:59:40+00:00'
+author: nohdomi
+layout: post
+guid: 'http://xpjug.com/?p=4923'
+permalink: /2023-sponsor-presentation/
+categories:
+    - XP祭り2023
+---
+
+## 協賛
+
+以下のメディア各社・コミュニティさまより協賛いただいております（敬称略、順不同）。
+
+### マイナビ出版社
+
+- [競技プログラミングの鉄則](https://book.mynavi.jp/ec/products/detail/id=131288)
+- [ゼロからのOS自作入門](https://book.mynavi.jp/ec/products/detail/id=121220)
+- [単体テストの考え方／使い方](https://book.mynavi.jp/ec/products/detail/id=134252)
+- [アジャイルな見積りと計画づくり](https://book.mynavi.jp/ec/products/detail/id=22141)
+- [実践力をアップする Pythonによるアルゴリズムの教科書](https://book.mynavi.jp/ec/products/detail/id=138749)
+- [JAX/Flaxで学ぶディープラーニングの仕組み](https://book.mynavi.jp/ec/products/detail/id=135373)
+- [作って学ぶ WordPress ブロックテーマ](https://book.mynavi.jp/ec/products/detail/id=135047)
+- [作って学ぶ Next.js/React Webサイト構築](https://book.mynavi.jp/ec/products/detail/id=130848)
+
+### 日経BP
+
+- [『スタンフォード物理学再入門 特殊相対性理論・古典場の理論』](https://bookplus.nikkei.com/atcl/catalog/23/04/10/00765/)
+- [『スタッフエンジニア マネジメントを超えるリーダーシップ』](https://bookplus.nikkei.com/atcl/catalog/23/04/07/00760/)
+- [『エンジニアがExcel VBAを簡単に学べる本』](https://bookplus.nikkei.com/atcl/catalog/23/06/19/00876/)
+
+### 技術評論社
+
+- [大規模言語モデル入門](https://gihyo.jp/book/2023/978-4-297-13633-8)
+- [因果推論入門](https://gihyo.jp/book/2023/978-4-297-13417-4)
+- [ソフトウェア開発にChatGPTは使えるのか？](https://gihyo.jp/book/2023/978-4-297-13615-4)
+- [オブジェクト指向UIデザイン](https://gihyo.jp/book/2020/978-4-297-11351-3)
+- [スタートアップ 企業の実践論](https://gihyo.jp/book/2023/978-4-297-13401-3)
+- [量子コンピュータの頭の中](https://gihyo.jp/book/2023/978-4-297-13511-9)
+- [プロになるためのSpring入門](https://gihyo.jp/book/2023/978-4-297-13613-0)
+- [人が増えても速くならない](https://gihyo.jp/book/2023/978-4-297-13565-2)
+- [これまでの仕事 これからの仕事](https://gihyo.jp/book/2023/978-4-297-13553-9)
+- [コミュニケーションの問題地図](https://gihyo.jp/book/2023/978-4-297-13595-9)
+
+### 翔泳社
+
+- [デジタルトランスフォーメーション・ジャーニー](https://www.shoeisha.co.jp/book/detail/9784798172569)
+- [コードが動かないので帰れません！ ](https://www.shoeisha.co.jp/book/detail/9784798180670)
+- [3カ月で改善！システム障害対応 実践ガイド](https://www.shoeisha.co.jp/book/detail/9784798178905)
+- [アジャイルプラクティスガイドブック（2冊）](https://www.shoeisha.co.jp/book/detail/9784798176727)
+
+### オライリー・ジャパン
+
+- [ユーザーストーリーマッピング](https://www.oreilly.co.jp/books/9784873117324/)
+- [Lean UX 第3版](https://www.oreilly.co.jp/books/9784873119984/)
+- [プロダクトマネージャーのしごと 第2版](https://www.oreilly.co.jp/books/9784814400430/)
+- [Running Lean 第3版](https://www.oreilly.co.jp/books/9784814400263/)
+- [オブジェクト設計スタイルガイド](https://www.oreilly.co.jp/books/9784814400331/)
+- （Tシャツ Sサイズ) Nerds of a Feather 黒
+- （Tシャツ Sサイズ) Emerge Victorious グレー
+
+### オーム社
+
+- [達人プログラマー（第2版）（2冊）](https://www.ohmsha.co.jp/book/9784274226298/)
+- [実践スクラム（2冊）](https://www.ohmsha.co.jp/book/9784274230431/)
+- [ゼロからはじめるゲームテスト（2冊）](https://www.ohmsha.co.jp/book/9784274230677/)
+- [Optunaによるブラックボックス最適化](https://www.ohmsha.co.jp/book/9784274230103/)
+- [プログラミングElixir（第2版）（2冊）](https://www.ohmsha.co.jp/book/9784274226373/)
+- [機械学習トレーニングデータがわかる本（2冊）](https://www.ohmsha.co.jp/book/9784274230448/)
+
+### 一般社団法人スクラムギャザリング東京実行委員会
+
+- プロダクトマネジメント ―ビルドトラップを避け顧客に価値を届ける
+- みんなでアジャイル ―変化に対応できる顧客中心組織のつくりかた
+- Design It! ―プログラマーのためのアーキテクティング入門
+- レガシーコードからの脱却 ―ソフトウェアの寿命を延ばし価値を高める9つのプラクティス
+- Effective DevOps ―4本柱による持続可能な組織文化の育て方
+- 初めての自動テスト ―Webシステムのための自動テスト基礎
+- カンバン仕事術
+- ユーザーストーリーマッピング
+- Team Geek ―Googleのギークたちはいかにしてチームを作るのか
+- Running Lean ―実践リーンスタートアップ (THE LEAN SERIES)
+- リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)（2冊）
+- 達人プログラマー(第2版): 熟達に向けたあなたの旅（2冊）
+- リファクタリング(第2版): 既存のコードを安全に改善する
+- アジャイルコーチング
+- テスト駆動開発
+- エクストリームプログラミング（2冊）
+- アジャイルサムライ−達人開発者への道−
+- 情熱プログラマー ソフトウェア開発者の幸せな生き方
+- アジャイルレトロスペクティブズ 強いチームを育てる「ふりかえり」の手引き
+- アジャイルプラクティス
+- ハッカーと画家 コンピュータ時代の創造者たち
+- ゾンビスクラムサバイバルガイド
+- マネジメント3.0: 適応力の高いチームを育むための6つの視点
+- Fearless Change アジャイルに効く アイデアを組織に広めるための48のパターン
+- 大規模スクラム Large-Scale Scrum(LeSS) アジャイルとスクラムを大規模に実装する方法
+- 人月の神話【新装版】
+- アジャイルリーダーシップ: 変化に適応するアジャイルな組織をつくる
+- Clean Craftsmanship 規律、基準、倫理
+- Clean Agile 基本に立ち戻れ
+- Clean Coder プロフェッショナルプログラマへの道
+- Clean Code アジャイルソフトウェア達人の技
+- 継続的デリバリー 信頼できるソフトウェアリリースのためのビルド・テスト・デプロイメントの自動化
+- 1兆ドルコーチ シリコンバレーのレジェンド ビル・キャンベルの成功の教え
+- マネージング・フォー・ハピネス――チームのやる気を引き出すゲーム、ツール、プラクティス
+- 岩田さん 岩田聡はこんなことを話していた。
+- 教育心理学概論 (放送大学教材)
+- 米海軍で屈指の潜水艦艦長による「最強組織」の作り方
+- チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計
+- プロダクト・レッド・オーガニゼーション 顧客と組織と成長をつなぐプロダクト主導型の構築
+- EMPOWERED 普通のチームが並外れた製品を生み出すプロダクトリーダーシップ
+- ソフトウェアテスト技法練習帳 ~知識を経験に変える40問
+- 現場で役立つシステム設計の原則
+- 継続的デリバリーのソフトウェア工学 もっと早く、もっと良いソフトウェアを作るための秘訣
+- More Effective Agile ~“ソフトウェアリーダー”になるための28の道標
+- The DevOps ハンドブック 理論・原則・実践のすべて
+- はじめて学ぶソフトウェアのテスト技法
+- アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~
+- LeanとDevOpsの科学\[Accelerate\] テクノロジーの戦略的活用が組織変革を加速する (impress top gear)
+
+### アギレルゴコンサルティング株式会社
+
+- (グッズ) Moutain Goat 社製 プランニングポーカー 2箱セット（6個）

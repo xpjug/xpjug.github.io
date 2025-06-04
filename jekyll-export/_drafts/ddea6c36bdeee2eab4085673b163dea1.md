@@ -1,0 +1,74 @@
+---
+id: 1401
+title: 'XP祭り2012 頒布コーナー'
+date: '2012-09-11T05:34:39+00:00'
+author: semi
+layout: revision
+guid: 'http://xpjug.com/1213-revision-9/'
+permalink: /1213-revision-9/
+---
+
+XP祭り2012では、昨年に引き続き、今年も頒布コーナーを設置いたします。  
+場所は、受付の向かい側を予定しています。  
+頒布コーナー設置のために、コミュニティや有志の方にご協力いただきました。ありがとうございます！
+
+#### 【お願い】お買い求めの方は
+
+なるべく釣り銭のないようにお願いいたします。  
+受付での両替はお受けできませんので、ご了承ください。
+
+[![](http://xpjug.com/wp-content/uploads/2012/08/map02_350.png "map02_350")](http://xpjug.com/wp-content/uploads/2012/08/map02_350.png)
+
+---
+
+## 書籍『UltimateAgileStories Iteration1』『UltimateAgileStories Iteration2』
+
+「いろいろな人の、いろいろな思いを集めた1冊を作りたい！」という熱意から生まれたアジャイル同人誌です。
+
+- [UltimateAgileStories ](http://ultimateagilestories.web.fc2.com/)
+- [UltimateAgileStories iteration1 執筆者とタイトル一覧](http://ultimateagilestories.web.fc2.com/bookcontents1.html)
+- [UltimateAgileStories iteration２ 執筆者とタイトル一覧](http://ultimateagilestories.web.fc2.com/bookcontents2.html)
+- 価格 – 2,000円
+- 企画・制作 – [UltimateAgileStories編集部](http://ultimateagilestories.blog.fc2.com/)
+
+[![](http://xpjug.com/wp-content/uploads/2012/08/331df8013b9b3f74be4c76c4e0a7826c-226x300.png "UAS2表紙")](http://ultimateagilestories.web.fc2.com/)
+
+---
+
+## 書籍『AgileMind同人誌』
+
+「アジャイルマインド」をテーマに、執筆者を公募した同人誌です。
+
+- [AgileMind同人誌](http://www.facebook.com/AgileMindMagazine)
+- [タイトルと執筆者 – アジャイルマインド同人誌 vol.1](http://goo.gl/u5Gqx)
+- 価格 – 1,500円
+- 企画・制作 – [アジャイルプロセス協議会](http://www.agileprocess.jp/) アジャイルマインド勉強会
+
+[![](http://xpjug.com/wp-content/uploads/2012/08/agilemind-300x212.jpg "agilemind")](http://www.facebook.com/AgileMindMagazine)
+
+---
+
+## 電子書籍『ライトニング・トークス 驚異のプレゼン さあ、プレゼンに目覚めよう』
+
+DevLOVE Pub第三弾！超短時間稲妻プレゼンテーションのライトニングトークスについての技術と想いが詰まった一冊！
+
+- [ライトニング・トークス 驚異のプレゼン さあ、プレゼンに目覚めよう](http://www.devlove.org/devlove-pub/the_presentation_secrets_of_lightning_talks)
+- 価格 – 500円
+- 企画・制作 – [DevLOVE Pub](http://www.devlove.org/devlove-pub)
+
+[![](http://xpjug.com/wp-content/uploads/2012/08/pub_lt_2012_devcchi_s.png "pub_lt_2012_devcchi_s")](http://www.devlove.org/devlove-pub/the_presentation_secrets_of_lightning_talks)
+
+---
+
+## Mountain Goat 社製プランニングポーカー
+
+プランニングポーカーを世に知らしめた [Mike Cohn](http://www.mountaingoatsoftware.com/company/about-mike-cohn) (『[アジャイルな見積りと計画作り](http://goo.gl/TCYWU)』著者) の [Mountain Goat 社](http://www.mountaingoatsoftware.com/)のプランニングポーカーカードです。
+
+- [Planning Poker Cards](http://store.mountaingoatsoftware.com/)
+- [Mountain Goat 社製 プランニングポーカー を一個単位でお分けします。](http://jp.agilergo.com/15)
+- [プランニングポーカー かんたんガイド 作りました。](http://d.hatena.ne.jp/wayaguchi/20120218/1329524230)
+- [\[Agile\]プランニングポーカーのやりかた](http://www.ryuzee.com/contents/blog/4664)
+
+[![](http://xpjug.com/wp-content/uploads/2012/08/planning-poker.jpg "planning-poker")](http://jp.agilergo.com/15)
+
+---

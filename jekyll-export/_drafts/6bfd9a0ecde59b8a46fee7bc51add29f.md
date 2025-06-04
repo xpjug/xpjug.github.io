@@ -1,0 +1,44 @@
+---
+id: 3599
+title: 'XP祭り2016：TDDハンズオン（大橋 勇希さん）'
+date: '2016-09-26T14:20:03+00:00'
+author: semi
+layout: revision
+guid: 'http://xpjug.com/3332-autosave-v1/'
+permalink: /3332-autosave-v1/
+---
+
+![xp2016-sessioin-d4](http://xpjug.com/wp-content/uploads/2016/08/xp2016-sessioin-d4.png)
+
+### セッション情報
+
+- セッションID：D-4
+- 時間：【午後1】13:00～14:30
+- 会場：【D会場】55N号館1F第二
+- タイプ：ワークショップ
+
+### セッション内容
+
+TDD初学者向けに基本的な概念の解説とTDDの実演によるレクチャーを行います。  
+当日はPHPとPHPUnitを使ってデモンストレーションを行います。
+
+直前になってしまい申し訳ございませんが、以下のGitHubリポジトリのREADMEをご覧になって環境構築をお願いします。  
+[https://github.com/hamuhamu/<wbr></wbr>tdd\_hands-on](https://github.com/hamuhamu/tdd_hands-on)
+
+当日に環境構築時間を設けますが、会場にwi-fi提供がございませんので事前に準備していただけますとスムーズです。
+
+言語にPHPを使いますが、テストの手順、リファクタリングについて主に話しますのである程度、文法が読めれば大丈夫です。
+
+環境構築できなかった方も前方のスクリーンにてデモンストレーションを行いますので、環境準備されていなくてもご気軽にご参加ください。
+
+なにかご質問などあればTwitter [@secret\_hamuhamu](https://twitter.com/secret_hamuhamu)までよろしくお願いいたします。
+
+### スピーカー
+
+#### 大橋 勇希さん
+
+### 公開資料
+
+<iframe allowfullscreen="" frameborder="0" height="485" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/key/5HNqD7tjArW9NS" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" width="595"> </iframe>
+
+<div style="margin-bottom:5px">  **[TDDハンズオン](//www.slideshare.net/OhasiYuki/tdd-66364421 "TDDハンズオン")**  from **[Ohasi Yuki](//www.slideshare.net/OhasiYuki)** </div>
