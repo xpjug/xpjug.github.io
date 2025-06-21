@@ -178,6 +178,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background-color: $content-background-color;
 }
 
 .page-heading {
@@ -212,6 +213,12 @@
 /**
  * Posts
  */
+.post {
+  background-color: $background-color;
+  border-radius: 10px;
+  padding: 10px;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
 }
