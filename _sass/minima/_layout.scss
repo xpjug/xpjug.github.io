@@ -72,6 +72,7 @@
       line-height: 0;
       padding-top: 10px;
       text-align: center;
+      color: $grey-color-dark;
 
       > svg {
         fill: $grey-color-dark;
@@ -216,7 +217,7 @@
 .post {
   background-color: $background-color;
   border-radius: 10px;
-  padding: 10px;
+  padding: 24px;
 }
 
 .post-header {

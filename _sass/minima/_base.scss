@@ -26,6 +26,10 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  letter-spacing: 0.02em;
+  line-break: strict;
+  overflow-wrap: anywhere;
+  font-variant-numeric: lining-nums tabular-nums;
 }
 
 
