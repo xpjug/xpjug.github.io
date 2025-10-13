@@ -34,6 +34,10 @@ github_username: xpjug
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - pages/about.md
+  - pages/xpfestival.md
+  - pages/archives.md
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
