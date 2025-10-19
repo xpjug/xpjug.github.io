@@ -22,6 +22,10 @@
   &:visited {
     color: $grey-color-dark;
   }
+  h2 {
+    display: inline;
+    font-size: 26px;
+  }
 }
 
 .site-nav {

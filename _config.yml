@@ -29,6 +29,7 @@ domain: "xpjug.github.io"
 url: "https://xpjug.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xpjug
 github_username: xpjug
+google_analytics: G-QSCX6R6X3C
 
 # Build settings
 theme: minima
