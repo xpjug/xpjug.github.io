@@ -32,6 +32,12 @@ twitter_username: xpjug
 github_username: xpjug
 google_analytics: G-QSCX6R6X3C
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/xpjug_logo.png
+
 # Build settings
 theme: minima
 plugins:
@@ -51,7 +57,7 @@ minima:
     - title: "GitHub"
       url: "https://www.github.com/xpjug"
       icon: "github"
-  hide_site_feed_link: true      
+  hide_site_feed_link: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
