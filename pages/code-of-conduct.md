@@ -1,5 +1,6 @@
 ---
-title: 行動規範
+title: XP祭り行動規範 (Code of Conduct)
+nav_title: 行動規範
 layout: page
 permalink: /code-of-conduct.html
 ---
