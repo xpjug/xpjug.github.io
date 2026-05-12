@@ -46,6 +46,7 @@ header_pages:
   - pages/about.md
   - pages/xpfestival.md
   - pages/archives.md
+  - pages/code-of-conduct.md
 minima:
   social_links:
     - title: "Facebook"
