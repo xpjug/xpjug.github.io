@@ -42,6 +42,21 @@ defaults:
 theme: minima
 plugins:
   - jekyll-feed
+
+# The github-pages gem used to set these implicitly (see
+# github/pages-gem lib/github-pages/configuration.rb DEFAULTS/OVERRIDES).
+# Now that we build with plain Jekyll 4, set them explicitly so the
+# output doesn't change.
+future: true
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: paragraph_end
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: plaintext
 header_pages:
   - pages/about.md
   - pages/xpfestival.md
