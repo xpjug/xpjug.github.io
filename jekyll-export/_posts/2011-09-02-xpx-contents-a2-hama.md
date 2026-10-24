@@ -11,7 +11,7 @@ categories:
     - XP祭り2011セッション
 ---
 
-[![](http://xpjug.com/wp-content/uploads/2011/09/katsumi_hama.jpg "katsumi_hama")](http://xpjug.com/wp-content/uploads/2011/09/katsumi_hama.jpg)
+[![](/wp-content/uploads/2011/09/katsumi_hama.jpg "katsumi_hama")](/wp-content/uploads/2011/09/katsumi_hama.jpg)
 
 ##### ◆プロフィール
 

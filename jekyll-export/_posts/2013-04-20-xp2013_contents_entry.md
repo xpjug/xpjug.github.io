@@ -21,7 +21,7 @@ categories:
 
 ### 詳細・お申込み
 
-- [XP祭り2013「XP」コンテンツ募集！![9月14日 XP祭り2013「XP」コンテンツ募集！(東京都)](http://xpjug.com/wp-content/uploads/2013/04/6ec4b2636ff4ba67d45ecd8647a949a4-300x199.png)](http://kokucheese.com/event/index/86082/)
+- [XP祭り2013「XP」コンテンツ募集！![9月14日 XP祭り2013「XP」コンテンツ募集！(東京都)](/wp-content/uploads/2013/04/6ec4b2636ff4ba67d45ecd8647a949a4-300x199.png)](http://kokucheese.com/event/index/86082/)
 
 ### 注意
 

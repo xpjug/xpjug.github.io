@@ -58,7 +58,7 @@ XP早朝読書会 + Special Guest
 新宿二丁目の[jig.jp](http://jig.jp/index.html)さんの会議室で、毎週水曜日、朝8:00～ 有志で読書会をしています。もともと、Kent Beck来日イベントに合わせて「[XPエクストリーム・プログラミング入門 第2版](http://www.amazon.co.jp/dp/4894716852/)」を読み始めました。  
 もうそろそろ「[XPエクストリーム・プログラミング入門 第2版](http://www.amazon.co.jp/dp/4894716852/)」を終えて次の本に移るので、もし興味のある人は、私たちに声をかけてください。一緒に積読を解消しましょう♪
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/947d3504e32f908dea3131f346cc468d-150x150.jpg "XP早朝読書会")](http://xpjug.com/wp-content/uploads/2011/08/947d3504e32f908dea3131f346cc468d.jpg)
+[![](/wp-content/uploads/2011/08/947d3504e32f908dea3131f346cc468d-150x150.jpg "XP早朝読書会")](/wp-content/uploads/2011/08/947d3504e32f908dea3131f346cc468d.jpg)
 
 ---
 

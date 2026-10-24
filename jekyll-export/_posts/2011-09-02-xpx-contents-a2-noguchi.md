@@ -11,7 +11,7 @@ categories:
     - XP祭り2011セッション
 ---
 
-[![](http://xpjug.com/wp-content/uploads/2011/09/takafumi_noguchi-150x150.jpg "takafumi_noguchi")](http://xpjug.com/wp-content/uploads/2011/09/takafumi_noguchi.jpg)
+[![](/wp-content/uploads/2011/09/takafumi_noguchi-150x150.jpg "takafumi_noguchi")](/wp-content/uploads/2011/09/takafumi_noguchi.jpg)
 
 ##### ◆プロフィール
 

@@ -48,7 +48,7 @@ Android Application “Mixiroid” 開発
 - facebook : <http://www.facebook.com/ryushi.shiohama>
 
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/ryushi_shiohama-150x150.jpg "ryushi_shiohama")](http://xpjug.com/wp-content/uploads/2011/08/ryushi_shiohama.jpg)
+[![](/wp-content/uploads/2011/08/ryushi_shiohama-150x150.jpg "ryushi_shiohama")](/wp-content/uploads/2011/08/ryushi_shiohama.jpg)
 
 ---
 

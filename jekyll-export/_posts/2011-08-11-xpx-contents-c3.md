@@ -53,7 +53,7 @@ categories:
 - Twitter：[@ryuzee](http://twitter.com/#!/ryuzee)
 - Webサイト：<http://www.ryuzee.com/>
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/ryutaro_yoshiba-150x147.jpg "ryutaro_yoshiba")](http://xpjug.com/wp-content/uploads/2011/08/ryutaro_yoshiba.jpg)
+[![](/wp-content/uploads/2011/08/ryutaro_yoshiba-150x147.jpg "ryutaro_yoshiba")](/wp-content/uploads/2011/08/ryutaro_yoshiba.jpg)
 
 ##### ◆海江田 兼輔さんプロフィール
 
@@ -65,7 +65,7 @@ TOCfE修了者
 - Twitter：[@Qooh0](http://twitter.com/#!/Qooh0)
 - Mail：Qooh0.public@gmail.com
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/kensuke_kaieda-150x150.jpg "kensuke_kaieda")](http://xpjug.com/wp-content/uploads/2011/08/kensuke_kaieda.jpg)
+[![](/wp-content/uploads/2011/08/kensuke_kaieda-150x150.jpg "kensuke_kaieda")](/wp-content/uploads/2011/08/kensuke_kaieda.jpg)
 
 ---
 

@@ -48,7 +48,7 @@ java-ja・GenesisLightningTalks・197X・Jiemamyコミッタ
 - コラム : [不思議そうで不思議でないちょっと不思議な現場の話](http://el.jibun.atmarkit.co.jp/regtan/)  
     ([@IT自分戦略研究所エンジニアライフ](http://el.jibun.atmarkit.co.jp/index.html) 掲載)
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/ohsuke_noguchi-150x150.jpg "ohsuke_noguchi")](http://xpjug.com/wp-content/uploads/2011/08/ohsuke_noguchi.jpg)
+[![](/wp-content/uploads/2011/08/ohsuke_noguchi-150x150.jpg "ohsuke_noguchi")](/wp-content/uploads/2011/08/ohsuke_noguchi.jpg)
 
 ##### ◆塩谷 啓さんプロフィール
 
@@ -61,7 +61,7 @@ java-ja・GenesisLightningTalks・197X・Jiemamyコミッタ
 - web : [Kwappa.net](http://www.kwappa.net/)
 - ブログ : [Kwappa研究開発室](http://randd.kwappa.net/)
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/hiromu_shioya.gif "hiromu_shioya")](http://xpjug.com/wp-content/uploads/2011/08/hiromu_shioya.gif)
+[![](/wp-content/uploads/2011/08/hiromu_shioya.gif "hiromu_shioya")](/wp-content/uploads/2011/08/hiromu_shioya.gif)
 
 ---
 

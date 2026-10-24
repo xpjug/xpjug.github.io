@@ -40,7 +40,7 @@ categories:
     
     10月には、この早稲田大学で[パタンの国際会議 AsianPLoP](http://patterns-wg.fuka.info.waseda.ac.jp/asianplop/japanese.html)を行います。ぜひお越しください。
     
-    [![](http://xpjug.com/wp-content/uploads/2011/08/masanari_motohashi.png "masanari_motohashi")](http://xpjug.com/wp-content/uploads/2011/08/masanari_motohashi.png)
+    [![](/wp-content/uploads/2011/08/masanari_motohashi.png "masanari_motohashi")](/wp-content/uploads/2011/08/masanari_motohashi.png)
     
     ---
     

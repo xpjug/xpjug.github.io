@@ -52,7 +52,7 @@ categories:
 認定NLPプラクティショナー  
 DCFA認定ドラムサークルファシリテーター
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/eiichi_hayashi-150x150.jpg "eiichi_hayashi")](http://xpjug.com/wp-content/uploads/2011/08/eiichi_hayashi.jpg)
+[![](/wp-content/uploads/2011/08/eiichi_hayashi-150x150.jpg "eiichi_hayashi")](/wp-content/uploads/2011/08/eiichi_hayashi.jpg)
 
 ---
 

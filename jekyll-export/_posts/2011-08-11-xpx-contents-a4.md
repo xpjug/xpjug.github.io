@@ -48,7 +48,7 @@ categories:
 電子書籍活動集団DevLOVE Pubの人。  
 日本Ruby会議2011実行委員、闇Ruby会議2011実行委員長、東京Ruby会議05実行委員長。
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/toshiaki_koshiba.jpg "toshiaki_koshiba")](http://xpjug.com/wp-content/uploads/2011/08/toshiaki_koshiba.jpg)
+[![](/wp-content/uploads/2011/08/toshiaki_koshiba.jpg "toshiaki_koshiba")](/wp-content/uploads/2011/08/toshiaki_koshiba.jpg)
 
 ---
 

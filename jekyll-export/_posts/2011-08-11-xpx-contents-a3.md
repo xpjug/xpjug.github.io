@@ -34,7 +34,7 @@ SIerの一メンバの立場から、いかにグループをチームへと変�
 中堅SIer所属。  
 チームのモチベーション向上やチーム一体となることがプロジェクトの成功の鍵になると考え、2007年より開発にアジャイルやTOC-CCPMを取り入れる活動を続けています。また、社内の有志により設立されたアジャイルコミュニティや社内へのアジャイル開発の導入を推進するタスクフォースに所属し、現在も日々活動しております。
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/takashi_takebayashi-150x150.png "takashi_takebayashi")](http://xpjug.com/wp-content/uploads/2011/08/takashi_takebayashi.png)
+[![](/wp-content/uploads/2011/08/takashi_takebayashi-150x150.png "takashi_takebayashi")](/wp-content/uploads/2011/08/takashi_takebayashi.png)
 
 ---
 

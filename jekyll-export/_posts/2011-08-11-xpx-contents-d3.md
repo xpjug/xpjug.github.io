@@ -63,7 +63,7 @@ categories:
 - ブログ：[t-wadaの日記](http://d.hatena.ne.jp/t-wada)
 - Twitter：[@t\_wada](http://twitter.com/#!/t_wada)
 
-[![](http://xpjug.com/wp-content/uploads/2011/09/takuto_wada.gif "takuto_wada")](http://xpjug.com/wp-content/uploads/2011/09/takuto_wada.gif)
+[![](/wp-content/uploads/2011/09/takuto_wada.gif "takuto_wada")](/wp-content/uploads/2011/09/takuto_wada.gif)
 
 ---
 

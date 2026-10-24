@@ -11,7 +11,7 @@ categories:
     - XP祭り2011セッション
 ---
 
-[![](http://xpjug.com/wp-content/uploads/2011/09/kenji_hiranabe-150x150.jpg "kenji_hiranabe")](http://xpjug.com/wp-content/uploads/2011/09/kenji_hiranabe.jpg)
+[![](/wp-content/uploads/2011/09/kenji_hiranabe-150x150.jpg "kenji_hiranabe")](/wp-content/uploads/2011/09/kenji_hiranabe.jpg)
 
 ##### ◆アジャイル、コミュニティ、そして10回めを迎えるXP祭りへ
 

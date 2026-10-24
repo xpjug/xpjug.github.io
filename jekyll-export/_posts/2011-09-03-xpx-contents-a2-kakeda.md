@@ -11,7 +11,7 @@ categories:
     - XP祭り2011セッション
 ---
 
-[![](http://xpjug.com/wp-content/uploads/2011/09/takeshi_kakeda-150x150.jpg "takeshi_kakeda")](http://xpjug.com/wp-content/uploads/2011/09/takeshi_kakeda.jpg)
+[![](/wp-content/uploads/2011/09/takeshi_kakeda-150x150.jpg "takeshi_kakeda")](/wp-content/uploads/2011/09/takeshi_kakeda.jpg)
 
 ##### ◆プロフィール
 

@@ -14,7 +14,7 @@ guid: 'http://xpjug.com/?page_id=861'
 
 当初は、XPJUGコミュニティのスタッフが企画・運営を行ってきましたが、2010年より運営自体をオープンにし、実行委員形式をとっています。 実行委員は、毎年公募しています。
 
-[![](http://xpjug.com/wp-content/uploads/2012/02/6111867216_7eb971fe08_z.jpg "XP祭り2011の様子1")](http://xpjug.com/wp-content/uploads/2012/02/6111867216_7eb971fe08_z.jpg)
+[![](/wp-content/uploads/2012/02/6111867216_7eb971fe08_z.jpg "XP祭り2011の様子1")](/wp-content/uploads/2012/02/6111867216_7eb971fe08_z.jpg)
 
 #### 過去のXP祭りはこんなイベントでした。
 
@@ -36,4 +36,4 @@ XP祭り2004 －アジャイルソフトウェア開発の最新事例と国際�
 XP祭り2003  
 XP祭り2002 – 国内最大 eXtreme Programming の祭典！！ –
 
-[![](http://xpjug.com/wp-content/uploads/2012/02/6111816954_b5aeecaa2c_z-150x150.jpg "XP祭り2011の様子-2")](http://xpjug.com/wp-content/uploads/2012/02/6111816954_b5aeecaa2c_z.jpg) [![](http://xpjug.com/wp-content/uploads/2012/02/6111365787_98746e7900_z-150x150.jpg "XP祭り2011の様子-3")](http://xpjug.com/wp-content/uploads/2012/02/6111365787_98746e7900_z.jpg) [![](http://xpjug.com/wp-content/uploads/2012/02/6111392007_519198e77f_z-150x150.jpg "XP祭り2011の様子-4")](http://xpjug.com/wp-content/uploads/2012/02/6111392007_519198e77f_z.jpg)
+[![](/wp-content/uploads/2012/02/6111816954_b5aeecaa2c_z-150x150.jpg "XP祭り2011の様子-2")](/wp-content/uploads/2012/02/6111816954_b5aeecaa2c_z.jpg) [![](/wp-content/uploads/2012/02/6111365787_98746e7900_z-150x150.jpg "XP祭り2011の様子-3")](/wp-content/uploads/2012/02/6111365787_98746e7900_z.jpg) [![](/wp-content/uploads/2012/02/6111392007_519198e77f_z-150x150.jpg "XP祭り2011の様子-4")](/wp-content/uploads/2012/02/6111392007_519198e77f_z.jpg)

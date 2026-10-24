@@ -46,7 +46,7 @@ Scrumの基本についてざっくりと学ぶことを目的としたセッシ
 
 - <http://about.me/nawoto>
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/naoto_nishimura-150x150.jpg "naoto_nishimura")](http://xpjug.com/wp-content/uploads/2011/08/naoto_nishimura.jpg)
+[![](/wp-content/uploads/2011/08/naoto_nishimura-150x150.jpg "naoto_nishimura")](/wp-content/uploads/2011/08/naoto_nishimura.jpg)
 
 ##### ◆吉羽 龍太郎さん(@ryuzee)プロフィール
 
@@ -60,7 +60,7 @@ Scrumの基本についてざっくりと学ぶことを目的としたセッシ
 - Twitter：[@ryuzee](http://twitter.com/#!/ryuzee)
 - Webサイト：<http://www.ryuzee.com/>
 
-[![](http://xpjug.com/wp-content/uploads/2011/08/ryutaro_yoshiba-150x147.jpg "ryutaro_yoshiba")](http://xpjug.com/wp-content/uploads/2011/08/ryutaro_yoshiba.jpg)
+[![](/wp-content/uploads/2011/08/ryutaro_yoshiba-150x147.jpg "ryutaro_yoshiba")](/wp-content/uploads/2011/08/ryutaro_yoshiba.jpg)
 
 ---
 

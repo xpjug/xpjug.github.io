@@ -39,7 +39,7 @@ categories:
 [DevLOVE Pub](http://devlovepub.github.io/)
 
 - 『Far East Developer Review』：500円  
-    [![FEDR_2014Summer_web](http://xpjug.com/wp-content/uploads/2014/09/FEDR_2014Summer_web-211x300.png)](http://xpjug.com/wp-content/uploads/2014/09/FEDR_2014Summer_web.png)
+    [![FEDR_2014Summer_web](/wp-content/uploads/2014/09/FEDR_2014Summer_web-211x300.png)](/wp-content/uploads/2014/09/FEDR_2014Summer_web.png)
 - 『エンジニアライフ番外地 サークル エンジニアライフ』：500円
 
 #### <span style="line-height:1.5;">DevLOVEPub こしば としあきさんのセッション</span>

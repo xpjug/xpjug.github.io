@@ -11,7 +11,7 @@ categories:
     - XP祭り2011セッション
 ---
 
-[![](http://xpjug.com/wp-content/uploads/2011/09/yoshihito_kuranuki-150x150.jpg "yoshihito_kuranuki")](http://xpjug.com/wp-content/uploads/2011/09/yoshihito_kuranuki.jpg)
+[![](/wp-content/uploads/2011/09/yoshihito_kuranuki-150x150.jpg "yoshihito_kuranuki")](/wp-content/uploads/2011/09/yoshihito_kuranuki.jpg)
 
 ##### ◆プロフィール
 
