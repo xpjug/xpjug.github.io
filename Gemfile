@@ -16,17 +16,15 @@ gem "kramdown-parser-gfm"
 # The github-pages gem used to be here. It pins old dependencies
 # (e.g. rubyzip < 3.0) so Dependabot could not apply security fixes.
 # The site is now built with plain Jekyll 4 and the plugins below.
+#
+# GitHub Pages also enables jekyll-github-metadata, jekyll-relative-links,
+# jekyll-optional-front-matter, jekyll-readme-index, jekyll-titles-from-headings
+# and jekyll-default-layout by default. Confirmed unused here (no site.github
+# access, no .md-to-.md links, and README.md is copied as a plain static file
+# either way) and dropped, so there's one less dependency to keep patched.
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag"
-  # Plugins that GitHub Pages enables by default. Kept so the output
-  # matches the previous build; drop any that turn out to be unused.
-  gem "jekyll-github-metadata"
-  gem "jekyll-relative-links"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-readme-index"
-  gem "jekyll-titles-from-headings"
-  gem "jekyll-default-layout"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
