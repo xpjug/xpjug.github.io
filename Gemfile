@@ -7,13 +7,21 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.4.1"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+gem "jekyll", "~> 4.4"
+# Theme. github-pages (232) pinned minima 2.5.1; keep 2.5.x so the output does not change.
+gem "minima", "~> 2.5.1"
+# GitHub Flavored Markdown (GitHub Pages' default kramdown input)
+gem "kramdown-parser-gfm"
+
+# The github-pages gem used to be here. It pins old dependencies
+# (e.g. rubyzip < 3.0) so Dependabot could not apply security fixes.
+# The site is now built with plain Jekyll 4 and the plugins below.
+#
+# GitHub Pages also enables jekyll-github-metadata, jekyll-relative-links,
+# jekyll-optional-front-matter, jekyll-readme-index, jekyll-titles-from-headings
+# and jekyll-default-layout by default. Confirmed unused here (no site.github
+# access, no .md-to-.md links, and README.md is copied as a plain static file
+# either way) and dropped, so there's one less dependency to keep patched.
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag"
