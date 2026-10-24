@@ -43,6 +43,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# jekyll-sass-converter went from sassc (1.5.2) to dart-sass (3.x) in this
+# migration. dart-sass defaults to expanded, unminified output and always
+# emits a .css.map; match the old minified, no-sourcemap output.
+sass:
+  style: compressed
+  sourcemap: never
+
 # The github-pages gem used to set these implicitly (see
 # github/pages-gem lib/github-pages/configuration.rb DEFAULTS/OVERRIDES).
 # Now that we build with plain Jekyll 4, set them explicitly so the
