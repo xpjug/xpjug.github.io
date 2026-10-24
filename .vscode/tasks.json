@@ -6,7 +6,7 @@
         {
             "label": "start-jekyll-local",
             "type": "shell",
-            "command": "bundle exec jekyll serve --baseurl=''"
+            "command": "bundle exec jekyll serve"
         }
     ]
 }
