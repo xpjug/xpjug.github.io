@@ -18,14 +18,14 @@ guid: 'http://xpjug.com/?page_id=861'
 
 #### 過去のXP祭りはこんなイベントでした。
 
-[XP祭り2018](http://xpjug.com/xp2018/ "XP祭り2018")  
-[XP祭り2017](http://xpjug.com/xp2017/ "XP祭り2017")  
-[XP祭り2016 ～ 俺たちの！！ ～](http://xpjug.com/xp2016/ "XP祭り2016")  
-[XP祭り2015 ～ 俺も！！ ～](http://xpjug.com/xp2015/ "XP祭り2015")  
-[XP祭り2014 ～ “俺の” XP祭り ～](http://xpjug.com/xp2014/ "XP祭り2014")  
-[XP祭り2013 ～ XP ～](http://xpjug.com/xp2013/ "XP祭り2013")  
-[XP祭り2012 ～ ソーシャルチェンジ！ ～](http://xpjug.com/xp2012/ "XP祭り2012")  
-[XP祭り2011 ～ XPX ～](http://xpjug.com/xpx/ "XP祭り2011")  
+[XP祭り2018](/xp2018.html "XP祭り2018")  
+[XP祭り2017](/xp2017.html "XP祭り2017")  
+[XP祭り2016 ～ 俺たちの！！ ～](/xp2016.html "XP祭り2016")  
+[XP祭り2015 ～ 俺も！！ ～](/xp2015.html "XP祭り2015")  
+[XP祭り2014 ～ “俺の” XP祭り ～](/xp2014.html "XP祭り2014")  
+[XP祭り2013 ～ XP ～](/xp2013.html "XP祭り2013")  
+[XP祭り2012 ～ ソーシャルチェンジ！ ～](/xp2012.html "XP祭り2012")  
+[XP祭り2011 ～ XPX ～](/xp2011.html "XP祭り2011")  
 [XP祭り2010 ～ アジャイル学園祭 ～](http://kokucheese.com/event/index/2167/)  
 [XP祭り2009 ～ XP10周年：ソフトウェア開発から日本が変わる ～](http://kokucheese.com/event/index/325/)  
 XP祭り2008 ～ LT五輪 ～  

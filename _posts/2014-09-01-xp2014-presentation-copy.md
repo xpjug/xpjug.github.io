@@ -35,7 +35,7 @@ categories:
 #### <span style="line-height:1.5;">著者のセッション</span>
 
 - 16:00～16:45：  
-    [B-7 なぜアジャイル開発はうまくいかないのか？ 〜ソフトウェア開発の本質とエンジニアの生き方【講演】](http://xpjug.com/xp2014-session-b7/)
+    [B-7 なぜアジャイル開発はうまくいかないのか？ 〜ソフトウェア開発の本質とエンジニアの生き方【講演】](/xp2014-session-b7/)
 
 ### <span style="margin:0 0 10px 0; padding:2px 8px; border-width:0 0 5px 0; border-color:#C6485B; border-style:solid; line-height:2.5;">樽本 徹也さま</span>
 
@@ -44,7 +44,7 @@ categories:
 #### <span style="line-height:1.5;">著者のセッション</span>
 
 - 15:00～16:30：  
-    [E-6 UXデザイン十訓 ～ニールセンの10ヒューリスティックスとヒューリスティック評価法～【ワークショップ】](http://xpjug.com/xp2014-session-e6/)
+    [E-6 UXデザイン十訓 ～ニールセンの10ヒューリスティックスとヒューリスティック評価法～【ワークショップ】](/xp2014-session-e6/)
 
 ### <span style="margin:0 0 10px 0; padding:2px 8px; border-width:0 0 5px 0; border-color:#C6485B; border-style:solid; line-height:2.5;">津田 義史さま</span>
 
@@ -53,4 +53,4 @@ categories:
 #### <span style="line-height:1.5;">著者のセッション</span>
 
 - 14:00～14:45：  
-    [B-5 スクラムの勘所【講演】](http://xpjug.com/xp2014-session-b5/)
+    [B-5 スクラムの勘所【講演】](/xp2014-session-b5/)

@@ -20,4 +20,4 @@ categories:
 
 [<div class="wp-caption aligncenter" id="attachment_2125" style="width: 160px">![XP祭り2014公式ページ](/wp-content/uploads/2014/06/db5a4b8418397ded37a151f35985d630.png)XP祭り2014公式ページ
 
-</div>](http://xpjug.com/xp2014/)
+</div>](/xp2014.html)

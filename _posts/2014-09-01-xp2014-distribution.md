@@ -11,7 +11,7 @@ categories:
     - XP祭り2014
 ---
 
-[XP祭り2014](http://xpjug.com/xp2014/)では、頒布コーナーを設置いたします。  
+[XP祭り2014](/xp2014.html)では、頒布コーナーを設置いたします。  
 頒布コーナー設置にご協力いただいた[Ultimate Agile Stories編集部](http://ultimateagilestories.blog.fc2.com/)さま、[DevLOVEPub](http://devlovepub.github.io/)さま、ありがとうございます。
 
 #### <span style="line-height:1.5;">頒布コーナーの場所</span>
@@ -45,4 +45,4 @@ categories:
 #### <span style="line-height:1.5;">DevLOVEPub こしば としあきさんのセッション</span>
 
 - 13:00～13:45：  
-    [C-4 DevLOVE Pubという集団による技術書定期刊行と出版を支える技術【講演】](http://xpjug.com/xp2014-session-c4/)
+    [C-4 DevLOVE Pubという集団による技術書定期刊行と出版を支える技術【講演】](/xp2014-session-c4/)

@@ -34,12 +34,12 @@ XPJUGに馴染みのある社長が一堂に介し、パネルディスカッシ
 
 社長のみなさまには事前アンケートにお答えいただいています。人物像を知る一助として、是非ご覧ください。
 
-- 懸田 剛さん (合同会社カルチャーワークス 代表) →[事前アンケート回答](http://xpjug.com/xpx-contents-a2-kakeda/ "社長パネル事前アンケート～懸田 剛さん")
-- 倉貫 義人さん ([SonicGarden](http://www.sonicgarden.jp/)カンパニー長) →[事前アンケート回答](http://xpjug.com/xpx-contents-a2-kuranuk/ "社長パネル事前アンケート～倉貫 義人さん")
-- 野口 隆史さん ([株式会社マナスリンク](http://www.manaslink.com/) 代表取締役社長) →[事前アンケート回答](http://xpjug.com/xpx-contents-a2-noguchi/ "社長パネル事前アンケート～野口 隆史さん")
-- 濱 勝巳さん ([株式会社アッズーリ](http://www.azzurri.jp/) 代表取締役社長) →[事前アンケート回答](http://xpjug.com/xpx-contents-a2-hama/ "社長パネル事前アンケート～濱 勝巳さん")
-- 平鍋 健児さん ([株式会社チェンジビジョン](http://www.change-vision.com/) 代表取締役社長) →[事前アンケート回答](http://xpjug.com/xpx-contents-a2-hiranab/ "社長パネル事前アンケート～平鍋 健児さん")
-- 和田 卓人さん (タワーズ・クエスト株式会社 取締役社長) →[事前アンケート回答](http://xpjug.com/xpx-contents-a2-wada/ "社長パネル事前アンケート～和田 卓人さん")
+- 懸田 剛さん (合同会社カルチャーワークス 代表) →[事前アンケート回答](/xpx-contents-a2-kakeda/ "社長パネル事前アンケート～懸田 剛さん")
+- 倉貫 義人さん ([SonicGarden](http://www.sonicgarden.jp/)カンパニー長) →[事前アンケート回答](/xpx-contents-a2-kuranuk/ "社長パネル事前アンケート～倉貫 義人さん")
+- 野口 隆史さん ([株式会社マナスリンク](http://www.manaslink.com/) 代表取締役社長) →[事前アンケート回答](/xpx-contents-a2-noguchi/ "社長パネル事前アンケート～野口 隆史さん")
+- 濱 勝巳さん ([株式会社アッズーリ](http://www.azzurri.jp/) 代表取締役社長) →[事前アンケート回答](/xpx-contents-a2-hama/ "社長パネル事前アンケート～濱 勝巳さん")
+- 平鍋 健児さん ([株式会社チェンジビジョン](http://www.change-vision.com/) 代表取締役社長) →[事前アンケート回答](/xpx-contents-a2-hiranab/ "社長パネル事前アンケート～平鍋 健児さん")
+- 和田 卓人さん (タワーズ・クエスト株式会社 取締役社長) →[事前アンケート回答](/xpx-contents-a2-wada/ "社長パネル事前アンケート～和田 卓人さん")
 
 ---
 

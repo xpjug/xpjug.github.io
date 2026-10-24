@@ -37,6 +37,6 @@ tags:
 
 - ブログ：[t-wadaのブログ](http://t-wada.hatenablog.jp/)
 - Twitter：[@t\_wada](https://twitter.com/t_wada)
-- 参考：[XP祭り2011](http://xpjug.com/xpx/)登壇時の情報「[社長パネル事前アンケート～和田 卓人さん](http://xpjug.com/xpx-contents-a2-wada/)」
+- 参考：[XP祭り2011](/xp2011.html)登壇時の情報「[社長パネル事前アンケート～和田 卓人さん](/xpx-contents-a2-wada/)」
 
 </div>

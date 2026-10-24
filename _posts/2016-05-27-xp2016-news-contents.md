@@ -14,7 +14,7 @@ categories:
 開催は、9/24(土)、コンテンツを募集中です。  
 募集〆切は、6/12です。野望のある方はぜひ！
 
-XP祭り2016：<http://xpjug.com/xp2016/>
+XP祭り2016：<https://xpjug.github.io/xp2016.html>
 
 コンテンツ募集：<http://kokucheese.com/event/index/399453/>
 
